@@ -24,7 +24,7 @@ Toplu iş uygulamaları, yinelemeli algoritmalar, etkileşimli sorgular ve akı�
   Spark Core, büyük ölçekli paralel ve dağıtılmış veri işleme için temel motordur. Sahip olduğu kütüphaneler ile, akış , SQL ve makine öğrenmesi gibi çeşitli iş yüklerine izin verir. 
   Bellek yönetimi ve hata kurtarma, bir kümedeki işleri planlamak, dağıtmak ve izlemek ve depolama sistemleriyle etkileşimden sorumludur.
   
-* Spark Streaming
+- Spark Streaming
   Spark Streaming, gerçek zamanlı akış verilerini işlemek için kullanılan Spark bileşenidir. Gerçek zamanlı veri akışlarının yüksek verimli işlenmesini sağlar.
   
 * Spark SQL
